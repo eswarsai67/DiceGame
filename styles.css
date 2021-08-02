@@ -1,0 +1,23 @@
+body{
+  margin : 0;
+  overflow-x: hidden;
+}
+#game
+{
+  background-color: #BCFFB9;
+  padding : 5% 13%;
+  text-align: center;
+  font-family: "Montserrat",sans-serif;
+}
+#game img
+{
+  height : 50%;
+}
+.title{
+  font-size: 6rem;
+  text-decoration: underline;
+  padding : 3%;
+}
+.t1{
+  padding : 2%;
+}
